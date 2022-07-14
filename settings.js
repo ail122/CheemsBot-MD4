@@ -46,12 +46,12 @@ global.location = "Indonesia, JawaBarat, KotaBekasi" //ur location
 //bot bomdy 
 global.owner = ['6289516947204']
 global.ownertag = '6289516947204' //ur tag number
-global.botname = 'IyanBotzMD' //ur bot name
+global.botname = 'YNBotzMD' //ur bot name
 global.linkz = "https://saweria.co/IyanMd" //your theme url which will be displayed on whatsapp
 global.websitex = "https://saweria.co/IyanMd" //ur website to be displayed
 global.botscript = 'https://saweria.co/IyanMd' //script link
-global.reactmoji = "🗿" //ur menu react emoji
-global.themeemoji = "😩" //ur theme emoji
+global.reactmoji = "☠️" //ur menu react emoji
+global.themeemoji = "🗿" //ur theme emoji
 global.packname = "Sticker by" //ur sticker watermark packname
 global.author = "IyanOfc" //ur sticker watermark author
 
