@@ -40,8 +40,8 @@ global.doc6 = 'application/vnd.android.package-archive'
 global.vcardowner = ['6289516947204'] //ur owner number
 global.ownername = "Iyanfc" //ur owner name
 global.ytname = "YT: IYN OFC" //ur yt chanel name
-global.socialm = "GitHub: Warikrr" //ur github or insta name
-global.location = "Indonesia, Kalimantan Selatan, Kotabaru" //ur location
+global.socialm = "GitHub: IYANFC" //ur github or insta name
+global.location = "Indonesia, JawaBarat, KotaBekasi" //ur location
 
 //bot bomdy 
 global.owner = ['6289516947204']
@@ -49,7 +49,7 @@ global.ownertag = '6289516947204' //ur tag number
 global.botname = 'IyanBotzMD' //ur bot name
 global.linkz = "https://saweria.co/IyanMd" //your theme url which will be displayed on whatsapp
 global.websitex = "https://saweria.co/IyanMd" //ur website to be displayed
-global.botscript = 'https://youtu.be/k3QkeVdAMOs' //script link
+global.botscript = 'https://saweria.co/IyanMd' //script link
 global.reactmoji = "🗿" //ur menu react emoji
 global.themeemoji = "😩" //ur theme emoji
 global.packname = "Sticker by" //ur sticker watermark packname
