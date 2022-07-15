@@ -1,5 +1,5 @@
 //════════════════════════════//
-//Recode By ArullOfc 
+//Recode By Iyanfc 
 //© 2022 Xeon Bot Inc. Cheems Bot MD
 //Thank you to Lord Buddha, Family and Myself
 //════════════════════════════//
@@ -38,7 +38,7 @@ global.doc6 = 'application/vnd.android.package-archive'
 
 //owmner v card
 global.vcardowner = ['6289516947204'] //ur owner number
-global.ownername = "Iyanfc" //ur owner name
+global.ownername = "Iyan" //ur owner name
 global.ytname = "YT: IYN OFC" //ur yt chanel name
 global.socialm = "GitHub: IYANFC" //ur github or insta name
 global.location = "Indonesia, JawaBarat, KotaBekasi" //ur location
@@ -46,11 +46,11 @@ global.location = "Indonesia, JawaBarat, KotaBekasi" //ur location
 //bot bomdy 
 global.owner = ['6289516947204']
 global.ownertag = '6289516947204' //ur tag number
-global.botname = 'YNBotzMD' //ur bot name
+global.botname = 'RCTI BOT' //ur bot name
 global.linkz = "https://saweria.co/IyanMd" //your theme url which will be displayed on whatsapp
 global.websitex = "https://saweria.co/IyanMd" //ur website to be displayed
 global.botscript = 'https://saweria.co/IyanMd' //script link
-global.reactmoji = "☠️" //ur menu react emoji
+global.reactmoji = "☠" //ur menu react emoji
 global.themeemoji = "🗿" //ur theme emoji
 global.packname = "Sticker by" //ur sticker watermark packname
 global.author = "IyanOfc" //ur sticker watermark author
